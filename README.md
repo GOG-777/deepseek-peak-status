@@ -1,4 +1,5 @@
 # DeepSeek Peak Status for KDE Plasma 6 & Arch Linux
+![DeepSeek Status Preview](assets/preview.png)
 
 A lightweight KDE Plasma 6 taskbar widget and standalone CLI Python script to monitor DeepSeek API peak vs. off-peak hours in real-time.
 
@@ -10,7 +11,7 @@ A lightweight KDE Plasma 6 taskbar widget and standalone CLI Python script to mo
 ## Installation
 
 ```bash
-git clone [https://github.com/GOG-777/deepseek-peak-status.git](https://github.com/GOG-777/deepseek-peak-status.git)
+git clone https://github.com/GOG-777/deepseek-peak-status.git
 cd deepseek-peak-status
 ./install.sh
 ```
