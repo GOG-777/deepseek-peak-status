@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Id": "org.deepseek.status",
+        "Name": "DeepSeek Status",
+        "Description": "Monitors DeepSeek peak and off-peak hours",
+        "Icon": "network-workgroup",
+        "Authors": [{ "Name": "thegenius" }],
+        "Category": "Utilities",
+        "Version": "1.0",
+        "License": "MIT"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
